@@ -134,6 +134,6 @@
      2. Ахтырченко Даниил 
 
 - **Email:** [daniiar_artykov@epam.com](mailto:daniiar_artykov@epam.com)
-- **Email:** [daniil_akhtyrchenko@epam.com@gmail.com](mailto:daniil_akhtyrchenko@epam.com])
+- **Email:** [daniil_akhtyrchenko@epam.com](mailto:daniil_akhtyrchenko@epam.com])
 
 Спасибо за ваш интерес к теме карьеры в веб-разработке! Надеюсь, что эти ресурсы будут вам полезны.
