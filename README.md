@@ -129,8 +129,11 @@
 
 Если у вас есть вопросы или предложения, пожалуйста, свяжитесь со мной:
 
-- **Имя:** Данияр Артыков
+- **Спикеры:**
+     1. Данияр Артыков
+     2. Ахтырченко Даниил 
+
 - **Email:** [daniiar_artykov@epam.com](mailto:daniiar_artykov@epam.com)
-- **Email:** [artykovdaniyar@gmail.com](mailto:artykovdaniyar@gmail.com])
+- **Email:** [daniil_akhtyrchenko@epam.com@gmail.com](mailto:daniil_akhtyrchenko@epam.com])
 
 Спасибо за ваш интерес к теме карьеры в веб-разработке! Надеюсь, что эти ресурсы будут вам полезны.
