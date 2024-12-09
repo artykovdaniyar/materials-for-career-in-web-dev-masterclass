@@ -25,8 +25,8 @@
 
 Здесь приведены ссылки на все источники и материалы, использованные в моем выступлении:
 
-1. **Статистика интернета и соцсетей на 2023 год — цифры и тренды в мире и в России"**
-   - [Статистика интернета и соцсетей на 2023 год — цифры и тренды в мире и в России](https://www.web-canape.ru/business/statistika-interneta-i-socsetej-na-2023-god-cifry-i-trendy-v-mire-i-v-rossii/)
+1. **Статистика интернета и соцсетей на 2023 год"**
+   - [Статистика интернета и соцсетей на 2023 год](https://www.web-canape.ru/business/statistika-interneta-i-socsetej-na-2023-god-cifry-i-trendy-v-mire-i-v-rossii/)
 
 2. **Виды IT-компаний"**
    - [Виды IT-компаний](https://teachmeskills.by/blog/vydy-it-copmanyi?ysclid=lwrlc3aidc833899082)
